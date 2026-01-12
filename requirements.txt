@@ -1,0 +1,13 @@
+streamlit>=1.40.0
+streamlit-extras
+pandas
+numpy
+plotly
+scikit-learn
+umap-learn
+hdbscan
+litellm
+semanticscholar
+sentence-transformers
+requests
+matplotlib
