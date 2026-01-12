@@ -63,7 +63,7 @@ Integrated with **LiteLLM**, the system supports OpenAI, Anthropic, Gemini, Deep
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/DeepSurvey.git](https://github.com/yourusername/DeepSurvey.git)
+    git clone [https://github.com/Weslffy/DeepSurvey.git](https://github.com/Weslffy/DeepSurvey.git)
     cd DeepSurvey
     ```
 
